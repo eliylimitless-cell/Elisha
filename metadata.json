@@ -1,0 +1,6 @@
+{
+  "name": "HanyuMate",
+  "description": "AI Chinese Language Learning Assistant powered by HSK 3.0 curriculum, adaptive conversational AI, real-time speech, grammar explanations, and targeted practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

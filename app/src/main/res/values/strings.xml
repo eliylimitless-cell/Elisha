@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HanyuMate</string>
+    <string name="app_tagline">AI Chinese Language Learning Assistant</string>
+    <string name="copyright_notice">© 2026 HanyuMate. All rights reserved. \"HanyuMate\", including its design, curriculum structure, AI conversation flows, and original content, is the intellectual property of HanyuMate. Unauthorized reproduction, redistribution, or reverse engineering of this application is prohibited.</string>
+</resources>
